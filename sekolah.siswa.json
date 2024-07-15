@@ -1,0 +1,38 @@
+[{
+  "_id": {
+    "$oid": "66922a62598bc7aaed9dd372"
+  },
+  "nama": "Agung",
+  "alamat": "Curahketangi",
+  "no_hp": 1234567890
+},
+{
+  "_id": {
+    "$oid": "66922a62598bc7aaed9dd373"
+  },
+  "nama": "Dita",
+  "alamat": "Setail",
+  "no_hp": {
+    "$numberLong": "2345678901"
+  }
+},
+{
+  "_id": {
+    "$oid": "66922a62598bc7aaed9dd374"
+  },
+  "nama": "Pipi",
+  "alamat": "Gresik",
+  "no_hp": {
+    "$numberLong": "3456789012"
+  }
+},
+{
+  "_id": {
+    "$oid": "66922a62598bc7aaed9dd375"
+  },
+  "nama": "Hapid",
+  "alamat": "Sidayu",
+  "no_hp": {
+    "$numberLong": "4567890123"
+  }
+}]
